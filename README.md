@@ -69,6 +69,7 @@ O projeto está organizado da seguinte forma:
 
 2. Abra o projeto no Visual Studio Code.
 3. Compile e execute o arquivo Main.java:
+
 * No terminal
 ```bash
 javac src/Main.java -d bin
