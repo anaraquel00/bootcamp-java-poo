@@ -70,8 +70,9 @@ O projeto está organizado da seguinte forma:
 2. Abra o projeto no Visual Studio Code.
 3. Compile e execute o arquivo Main.java:
 
-* No terminal
-```bash
+* No terminal:
+
+```
 javac src/Main.java -d bin
 java -cp bin Main
 ```
@@ -82,7 +83,7 @@ java -cp bin Main
 
 Exemplos de uso
 Entrada:
-```bash
+```
 === Cadastro de Curso ===
 Digite o título do curso: Java Básico
 Digite a descrição do curso: Introdução à linguagem Java
